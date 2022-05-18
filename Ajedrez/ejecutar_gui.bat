@@ -1,1 +1,0 @@
-java juego.gui.Ajedrez
